@@ -1,0 +1,11 @@
+ .starOn {
+    margin: 4px;
+    color: #f5b83d!important;
+    font-size: 25px;
+  }
+
+  .starOff {
+    margin: 4px;
+    color: var(--grey-4);
+    font-size: 25px;
+  }
